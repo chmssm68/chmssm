@@ -29,6 +29,9 @@ header.sticky
   background: #fff;
   border-bottom: 1px solid rgba(0,0,0,.1);
 }
+header h3{
+  font-size: 1.8em;
+}
 header img
 {
 	height: 104px;
